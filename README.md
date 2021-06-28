@@ -5,8 +5,8 @@
 ## Languages
 
 ## Follow me
----
-![Reddit](./assets/img/social/reddit.png)
+![Vk](./assets/img/social/vk.png)
 ![Instagram](./assets/img/social/instagram.png)
 ![Facebook](./assets/img/social/facebook.png)
 ![Twitter](./assets/img/social/twitter.png)
+
