@@ -18,7 +18,13 @@
 <!-- ![ReactJS](https://img.shields.io/badge/ReactJS-bd0000?style=flat-square&logo=react&color=white) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik)](https://github.com/Syrnnik/github-readme-stats) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik&layout=compact) -->
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik&langs_count=8&layout=compact&theme=tokyonight" />
+    <br />
+    <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Syrnnik&show_icons=true&theme=tokyonight" />
+</details>
 
 <!-- #### Tools
 ![VS_Code](https://img.shields.io/badge/VS_code-bd0000?style=flat-square&logo=visual-studio-code&logoColor=blue&color=white)
@@ -28,6 +34,6 @@
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-bd0000?style=flat-square&logo=facebook&color=white)](https://facebook.com/Syrnnik) -->
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-bd0000?style=flat-square&logo=twitter&color=white)](https://twitter.com/Syrnnik) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-bd0000?style=flat-square&logo=instagram&color=white)](http://instagram.com/skrynnik_alexandr) -->
-[![VK](https://img.shields.io/badge/VK-bd0000?style=flat-square&logo=vk&color=white)](https://vk.com/syrnnik)
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-bd0000?style=flat-square&logo=reddit&color=white)](https://reddit.com/user/Syrnnik) -->
+[![VK](https://img.shields.io/badge/VK-bd0000?style=flat-square&logo=vk&color=white)](https://vk.com/syrnnik)
 [![Telegram](https://img.shields.io/badge/Telegram-bd0000?style=flat-square&logo=telegram&color=white)](https://t.me/syrnnik)
