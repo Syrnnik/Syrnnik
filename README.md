@@ -6,9 +6,9 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-bd0000?style=flat-square&logo=python&logoColor=blue&color=white)
 ![Java](https://img.shields.io/badge/Java-bd0000?style=flat-square&logo=java&logoColor=orange&color=white)
-![JS](https://img.shields.io/badge/JS-bd0000?style=flat-square&logo=javascript&logoColor=orange&color=white)
+<!-- ![JS](https://img.shields.io/badge/JS-bd0000?style=flat-square&logo=javascript&logoColor=orange&color=white) -->
 <!-- ![Kotlin](https://img.shields.io/badge/Kotlin-bd0000?style=flat-square&logo=kotlin&color=white) -->
-![C#](https://img.shields.io/badge/C-sharp-bd0000?style=flat-square&logo=c-sharp&logoColor=blue&color=white)
+<!-- ![C#](https://img.shields.io/badge/C-bd0000?style=flat-square&logo=c-sharp&logoColor=blue&color=white) -->
 <!-- ![C++](https://img.shields.io/badge/C++-bd0000?style=flat-square&logo=c&logoColor=blue&color=white) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik)](https://github.com/Syrnnik/github-readme-stats) -->
@@ -25,8 +25,9 @@
 ![Visual_Studio](https://img.shields.io/badge/Visual_Studio-bd0000?style=flat-square&logo=visual-studio&logoColor=blue&color=white) -->
 
 ## Follow me
-[![Facebook](https://img.shields.io/badge/Facebook-bd0000?style=flat-square&logo=facebook&color=white)](https://facebook.com/Syrnnik)
-[![Twitter](https://img.shields.io/badge/Twitter-bd0000?style=flat-square&logo=twitter&color=white)](https://twitter.com/Syrnnik)
-[![Instagram](https://img.shields.io/badge/Instagram-bd0000?style=flat-square&logo=instagram&color=white)](http://instagram.com/skrynnik_alexandr)
+<!-- [![Facebook](https://img.shields.io/badge/Facebook-bd0000?style=flat-square&logo=facebook&color=white)](https://facebook.com/Syrnnik) -->
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-bd0000?style=flat-square&logo=twitter&color=white)](https://twitter.com/Syrnnik) -->
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-bd0000?style=flat-square&logo=instagram&color=white)](http://instagram.com/skrynnik_alexandr) -->
 [![VK](https://img.shields.io/badge/VK-bd0000?style=flat-square&logo=vk&color=white)](https://vk.com/syrnnik)
-[![Reddit](https://img.shields.io/badge/Reddit-bd0000?style=flat-square&logo=reddit&color=white)](https://www.reddit.com/user/Syrnnik)
+[![Reddit](https://img.shields.io/badge/Reddit-bd0000?style=flat-square&logo=reddit&color=white)](https://reddit.com/user/Syrnnik)
+[![Telegram](https://img.shields.io/badge/Telegram-bd0000?style=flat-square&logo=telegram&color=white)](https://t.me/syrnnik)
