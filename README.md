@@ -11,14 +11,14 @@
 <!-- ![C#](https://img.shields.io/badge/C-bd0000?style=flat-square&logo=c-sharp&logoColor=blue&color=white) -->
 <!-- ![C++](https://img.shields.io/badge/C++-bd0000?style=flat-square&logo=c&logoColor=blue&color=white) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik)](https://github.com/Syrnnik/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik&layout=compact)](https://github.com/Syrnnik/github-readme-stats)
-
 ### Web
 ![HTML5](https://img.shields.io/badge/HTML-bd0000?style=flat-square&logo=html5&logoColor=orange&color=white)
 ![CSS3](https://img.shields.io/badge/CSS-bd0000?style=flat-square&logo=css3&logoColor=blue&color=white)
 ![JS](https://img.shields.io/badge/Javascript-bd0000?style=flat-square&logo=javascript&logoColor=yellow&color=white)
 <!-- ![ReactJS](https://img.shields.io/badge/ReactJS-bd0000?style=flat-square&logo=react&color=white) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik)](https://github.com/Syrnnik/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik&layout=compact)](https://github.com/Syrnnik/github-readme-stats)
 
 <!-- #### Tools
 ![VS_Code](https://img.shields.io/badge/VS_code-bd0000?style=flat-square&logo=visual-studio-code&logoColor=blue&color=white)
