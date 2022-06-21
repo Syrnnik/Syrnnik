@@ -29,7 +29,6 @@
 [![VK](https://img.shields.io/badge/VK-bd0000?style=flat-square&logo=vk&color=white)](https://vk.com/syrnnik)
 [![Telegram](https://img.shields.io/badge/Telegram-bd0000?style=flat-square&logo=telegram&color=white)](https://t.me/syrnnik)
 
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik)](https://github.com/Syrnnik/github-readme-stats) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik&layout=compact) -->
 <details>
