@@ -29,5 +29,5 @@
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-bd0000?style=flat-square&logo=twitter&color=white)](https://twitter.com/Syrnnik) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-bd0000?style=flat-square&logo=instagram&color=white)](http://instagram.com/skrynnik_alexandr) -->
 [![VK](https://img.shields.io/badge/VK-bd0000?style=flat-square&logo=vk&color=white)](https://vk.com/syrnnik)
-[![Reddit](https://img.shields.io/badge/Reddit-bd0000?style=flat-square&logo=reddit&color=white)](https://reddit.com/user/Syrnnik)
+<!-- [![Reddit](https://img.shields.io/badge/Reddit-bd0000?style=flat-square&logo=reddit&color=white)](https://reddit.com/user/Syrnnik) -->
 [![Telegram](https://img.shields.io/badge/Telegram-bd0000?style=flat-square&logo=telegram&color=white)](https://t.me/syrnnik)
