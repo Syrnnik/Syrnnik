@@ -11,20 +11,11 @@
 <!-- ![C#](https://img.shields.io/badge/C-bd0000?style=flat-square&logo=c-sharp&logoColor=blue&color=white) -->
 <!-- ![C++](https://img.shields.io/badge/C++-bd0000?style=flat-square&logo=c&logoColor=blue&color=white) -->
 
-### Web
+### Web Development
 ![HTML5](https://img.shields.io/badge/HTML-bd0000?style=flat-square&logo=html5&logoColor=orange&color=white)
 ![CSS3](https://img.shields.io/badge/CSS-bd0000?style=flat-square&logo=css3&logoColor=blue&color=white)
 ![JS](https://img.shields.io/badge/Javascript-bd0000?style=flat-square&logo=javascript&logoColor=yellow&color=white)
 <!-- ![ReactJS](https://img.shields.io/badge/ReactJS-bd0000?style=flat-square&logo=react&color=white) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik)](https://github.com/Syrnnik/github-readme-stats) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik&layout=compact) -->
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik&langs_count=8&layout=compact&theme=tokyonight" />
-    <br />
-    <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Syrnnik&show_icons=true&theme=tokyonight" />
-</details>
 
 <!-- #### Tools
 ![VS_Code](https://img.shields.io/badge/VS_code-bd0000?style=flat-square&logo=visual-studio-code&logoColor=blue&color=white)
@@ -37,3 +28,13 @@
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-bd0000?style=flat-square&logo=reddit&color=white)](https://reddit.com/user/Syrnnik) -->
 [![VK](https://img.shields.io/badge/VK-bd0000?style=flat-square&logo=vk&color=white)](https://vk.com/syrnnik)
 [![Telegram](https://img.shields.io/badge/Telegram-bd0000?style=flat-square&logo=telegram&color=white)](https://t.me/syrnnik)
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik)](https://github.com/Syrnnik/github-readme-stats) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik&layout=compact) -->
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik&langs_count=8&layout=compact&theme=tokyonight" />
+    <br />
+    <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Syrnnik&show_icons=true&theme=tokyonight" />
+</details>
