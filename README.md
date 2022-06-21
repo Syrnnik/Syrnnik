@@ -6,7 +6,7 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-bd0000?style=flat-square&logo=python&logoColor=blue&color=white)
 ![Java](https://img.shields.io/badge/Java-bd0000?style=flat-square&logo=java&logoColor=orange&color=white)
-![JS](https://img.shields.io/badge/JavaScript-bd0000?style=flat-square&logo=js&logoColor=orange&color=white)
+![JS](https://img.shields.io/badge/JavaScript-bd0000?style=flat-square&logo=javascript&logoColor=orange&color=white)
 <!-- ![Kotlin](https://img.shields.io/badge/Kotlin-bd0000?style=flat-square&logo=kotlin&color=white) -->
 <!-- ![C#](https://img.shields.io/badge/C-bd0000?style=flat-square&logo=c-sharp&logoColor=blue&color=white) -->
 <!-- ![C++](https://img.shields.io/badge/C++-bd0000?style=flat-square&logo=c&logoColor=blue&color=white) -->
