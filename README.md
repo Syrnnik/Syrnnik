@@ -18,7 +18,7 @@
 <!-- ![ReactJS](https://img.shields.io/badge/ReactJS-bd0000?style=flat-square&logo=react&color=white) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik)](https://github.com/Syrnnik/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik&layout=compact)](https://github.com/Syrnnik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik&layout=compact)]
 
 <!-- #### Tools
 ![VS_Code](https://img.shields.io/badge/VS_code-bd0000?style=flat-square&logo=visual-studio-code&logoColor=blue&color=white)
