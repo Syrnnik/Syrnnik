@@ -33,8 +33,8 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik)](https://github.com/Syrnnik/github-readme-stats) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik&layout=compact) -->
 <details>
-  <summary>:zap: Statistics:</summary>
+  <summary>:fox: Statistics:</summary>
    <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrnnik&langs_count=8&layout=compact&theme=tokyonight" />
-    <br />
+<!--     <br /> -->
     <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Syrnnik&show_icons=true&theme=tokyonight" />
 </details>
