@@ -18,11 +18,14 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+
       - name: Checkout branch
         run: git checkout --orphan $IMAGE_BRANCH
+
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories
           template: classic
           config_timezone: Europe/Moscow
@@ -40,6 +43,7 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_notable: yes
           plugin_notable_repositories: no
+
       - name: Force push image
         run: |
           git config user.name github-actions[bot]
